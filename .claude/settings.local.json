@@ -5,7 +5,27 @@
       "Bash(vercel --version:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(gh api:*)",
+      "Bash(vercel whoami:*)",
+      "Bash(vercel login)",
+      "Bash(vercel --yes:*)",
+      "Bash(vercel --prod --yes:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(dir /s /b \"c:\\\\Users\\\\bourd\\\\OneDrive\\\\Desktop\\\\Outil_tractage\")",
+      "Bash(git clone:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git cat-file:*)",
+      "Bash(git config:*)",
+      "Bash(gh repo view:*)",
+      "Bash(gh repo list:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(cat:*)",
+      "Bash(set:*)",
+      "Bash(npx ts-node:*)"
     ]
   }
 }
